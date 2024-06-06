@@ -1,2 +1,0 @@
-# Django-Chatbot
-Django Chatbot 
